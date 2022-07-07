@@ -17,6 +17,10 @@ Output will be stored as "submission.csv" in the same directory
 ![Screenshot 2022-07-07 180051](https://user-images.githubusercontent.com/51014994/177773800-4e788cd4-dd58-4408-bd82-15cee712efd8.png)
 
 7. We have used val folder for testing and its output are saved in "submission.csv"
+# Output
+
+![screenshot](https://user-images.githubusercontent.com/51014994/177781156-b2f866f7-ee27-434c-aa5f-0c3d17d14f2c.jpeg)
+
 
 # Naive Approach
 1. This task can also be done using cnn for each attribute(In this case 3). Code for this approach has also been uploaded as file names: neck.ipynb,sleeve_length.ipynb and pattern.ipynb
