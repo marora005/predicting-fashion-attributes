@@ -1,4 +1,4 @@
-# predicting-fashion-attributes
+# Predicting-Fashion-Attributes
 Steps to run this project 
 1. Upload images with folder name as "images"
 2. Split the image dataset into two datasets as train and val by running "dataset_distribution(train_and_val).ipynb"
